@@ -1,4 +1,4 @@
-# Creating annotations with inline assembly
+# Sample - Creating annotations with inline assembly
 
 This sample demonstrates how emitting a CodeView annotation from inline assembly can corrupt the debug information. As a result, symbols defined outside the inline assembly may be missing from the generated PDB.
 
